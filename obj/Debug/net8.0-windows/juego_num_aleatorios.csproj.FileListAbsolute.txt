@@ -1,0 +1,16 @@
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\bin\Debug\net8.0-windows\juego_num_aleatorios.exe
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\bin\Debug\net8.0-windows\juego_num_aleatorios.deps.json
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\bin\Debug\net8.0-windows\juego_num_aleatorios.runtimeconfig.json
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\bin\Debug\net8.0-windows\juego_num_aleatorios.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\bin\Debug\net8.0-windows\juego_num_aleatorios.pdb
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\juego_num_aleatorios.Form1.resources
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\juego_num_aleatorios.csproj.GenerateResource.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\juego_num_aleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\juego_num_aleatorios.AssemblyInfoInputs.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\juego_num_aleatorios.AssemblyInfo.cs
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\juego_num_aleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\juego_num_aleatorios.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\refint\juego_num_aleatorios.dll
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\juego_num_aleatorios.pdb
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\juego_num_aleatorios.genruntimeconfig.cache
+C:\Users\Nahuel\Documents\UAI\Segundo cuatrimestre\PROGRAMACIÓN Y ESTRUCTURAS DE DATOS\primer parcial\juego_num_aleatorios\obj\Debug\net8.0-windows\ref\juego_num_aleatorios.dll

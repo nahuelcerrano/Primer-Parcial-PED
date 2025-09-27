@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "juego_num_aleatorios/1.0.0": {
+        "runtime": {
+          "juego_num_aleatorios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "juego_num_aleatorios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
